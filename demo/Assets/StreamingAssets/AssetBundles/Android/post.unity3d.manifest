@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 2100240325
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4ba821b08e0675c3f104abd9eb741a1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac4ada1d8632644421081b0a8cc3ae2b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestAssets/PostProcessResources.asset
+Dependencies: []

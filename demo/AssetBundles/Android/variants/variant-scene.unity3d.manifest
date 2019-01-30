@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1584748183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8da034090d7880baa6ff7cd37156c58c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+HashAppended: 0
+ClassTypes: []
+Assets:
+- Assets/TestAssets/VariantTest/variant-scene.unity
+Dependencies:
+- C:/Users/admin/Desktop/Unity-5.0-AssetBundle-Demo-master/demo/AssetBundles/Android/variants/myassets.hd

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\admin\\Desktop\\Unity-5.0-AssetBundle-Demo-master\\demo\\Assembly-CSharp-Editor-vs.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

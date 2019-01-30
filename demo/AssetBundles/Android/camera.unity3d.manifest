@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 2205856701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e5084737426a80d7a5d7ba855bdeaa6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2e3e7722e2f4dfdb4d2b084c22cb2b4e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 92
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+Assets:
+- Assets/TestAssets/Main Camera.prefab
+Dependencies:
+- C:/Users/admin/Desktop/Unity-5.0-AssetBundle-Demo-master/demo/AssetBundles/Android/post.unity3d
